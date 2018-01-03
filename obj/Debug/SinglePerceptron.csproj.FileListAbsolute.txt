@@ -1,0 +1,44 @@
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ILNumerics.Computing.dll
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ILNumerics.Core.dll
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ILNumerics.Drawing.dll
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SimpleInjector.dll
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ILNumerics.Computing.xml
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ILNumerics.Core.xml
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ILNumerics.Drawing.xml
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SimpleInjector.xml
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Service.Implement.MainFormView.resources
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Service.Implement.ValueFormView.resources
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SinglePerceptron.csproj.GenerateResource.Cache
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SinglePerceptron.csproj.CoreCompileInputs.cache
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SinglePerceptron.csprojResolveAssemblyReference.cache
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ILNumericsForms.RungeKutta2D.resources
+C:\Users\Mazek27\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ILNumericsForms.RungeKutta3D.resources
+C:\Users\scorpion-comp\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\scorpion-comp\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\scorpion-comp\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\scorpion-comp\Desktop\WindowsFormsApp1\bin\Debug\ILNumerics.Computing.dll
+C:\Users\scorpion-comp\Desktop\WindowsFormsApp1\bin\Debug\ILNumerics.Core.dll
+C:\Users\scorpion-comp\Desktop\WindowsFormsApp1\bin\Debug\ILNumerics.Drawing.dll
+C:\Users\scorpion-comp\Desktop\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\scorpion-comp\Desktop\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\scorpion-comp\Desktop\WindowsFormsApp1\bin\Debug\ILNumerics.Computing.xml
+C:\Users\scorpion-comp\Desktop\WindowsFormsApp1\bin\Debug\ILNumerics.Core.xml
+C:\Users\scorpion-comp\Desktop\WindowsFormsApp1\bin\Debug\ILNumerics.Drawing.xml
+C:\Users\scorpion-comp\Desktop\WindowsFormsApp1\bin\Debug\SimpleInjector.xml
+C:\Users\scorpion-comp\Desktop\WindowsFormsApp1\obj\Debug\SinglePerceptron.csprojResolveAssemblyReference.cache
+C:\Users\scorpion-comp\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ILNumericsForms.RungeKutta2D.resources
+C:\Users\scorpion-comp\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Service.Implement.MainFormView.resources
+C:\Users\scorpion-comp\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ILNumericsForms.RungeKutta3D.resources
+C:\Users\scorpion-comp\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\scorpion-comp\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Service.Implement.ValueFormView.resources
+C:\Users\scorpion-comp\Desktop\WindowsFormsApp1\obj\Debug\SinglePerceptron.csproj.GenerateResource.Cache
+C:\Users\scorpion-comp\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\scorpion-comp\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
